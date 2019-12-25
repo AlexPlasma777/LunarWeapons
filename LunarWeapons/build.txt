@@ -1,0 +1,5 @@
+displayName = More Lunar Weapons
+author = Alexplasma777
+version = 0.2.2.1
+github = https://github.com/AlexPlasma777/More-Lunar-Weapons-mod
+homepage = https://github.com/AlexPlasma777/More-Lunar-Weapons-mod
